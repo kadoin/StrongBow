@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main/Assets/Level1.unity
+- path: D:/Pictures/PROJECTS IN PROCESS/ISP/StrongBow/Prototype/Assets/Main/Assets/Level1.unity
   isLoaded: 1
   isActive: 1
